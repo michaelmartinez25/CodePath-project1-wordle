@@ -27,7 +27,7 @@ The following **additional** features are to be implemented:
 
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+([Click here to watch video demo](https://youtu.be/TQ29EqJ4YJA)).
 
 ## Notes
 
